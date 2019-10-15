@@ -1,0 +1,16 @@
+{
+  "name": "interview-template-node",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "24.0.19",
+    "eslint": "^6.5.1",
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node main.js",
+    "lint": "eslint ."
+  }
+}
